@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Step Reasoning Agent with Self-Checking",
+  "description": "Autonomous multi-step reasoning agent with Planner, Executor, and Verifier phases for solving complex math, logic, and constraint word problems with self-checking and automated retry loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
